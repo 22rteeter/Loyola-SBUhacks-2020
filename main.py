@@ -1,5 +1,3 @@
-#acks:Tech With Tim youtube
-# Brick Breaker represents the expectations for this year because one second of lost focus can ruin the whole game
 
 from processing import *
 
